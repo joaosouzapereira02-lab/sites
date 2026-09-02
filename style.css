@@ -21,15 +21,15 @@ img{
    }
 a{
   text-decoration: none;
-  color: rgb(78, 77, 16);
+  color: rgb(7, 101, 234);
   text-align: center;
 }
 a:hover{
-  color: rgb(9, 42, 131);
+  color: rgb(9, 59, 196);
 }
 body.modo_escuro {
   background-color: black;
-  color: seashell;
+  color: rgb(238, 239, 255);
 }
 
 
